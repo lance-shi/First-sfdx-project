@@ -2,14 +2,14 @@
     [
         "C:\\Lance\\devhub\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516856342151,
             "changeTime": 1516856342151,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516856342151,
             "changeTime": 1516856342151,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,37 +37,36 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1517445110971,
-            "changeTime": 1517445110971,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "modifiedTime": 1517464661466,
+            "changeTime": 1517464661466,
+            "contentHash": "6fac53b5743632f8a1af55308b700c1b5a00e0b0"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516856342151,
-            "changeTime": 1516856342151,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1517448833955,
+            "changeTime": 1517448833955,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\classes",
         {
-            "state": "n",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1517209575881,
+            "modifiedTime": 1517460042388,
             "changeTime": 1517209575881,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -75,189 +74,444 @@
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
+            "size": 325,
+            "modifiedTime": 1517460042389,
+            "changeTime": 1517460042389,
+            "contentHash": "d8f9d407da8cc246e024b36f098b5ff88a60e451",
             "isMetadataFile": false,
-            "size": 88,
-            "modifiedTime": 1517209575880,
-            "changeTime": 1517209575880,
-            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1517447786909,
+            "changeTime": 1517447786909,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
             "isMetadataFile": true,
-            "size": 195,
-            "modifiedTime": 1517209575882,
-            "changeTime": 1517209575882,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Lance\\devhub\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1516863923694,
-            "changeTime": 1516863923694,
-            "contentHash": "08817971472a31484bd46c87f2fdc09a97c4c63e",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1517445990962,
+            "changeTime": 1517445990962,
+            "contentHash": "af0d639cf397f2617c5760558aad9648aa638191",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
             "modifiedTime": 1517445110945,
             "changeTime": 1517445110945,
-            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1517445110952,
             "changeTime": 1517445110952,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1517445110959,
             "changeTime": 1517445110959,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1517445110965,
             "changeTime": 1517445110965,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1517445110969,
             "changeTime": 1517445110969,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1517445110972,
             "changeTime": 1517445110972,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517445110943,
             "changeTime": 1517445110943,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517445110942,
             "changeTime": 1517445110942,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517445110942,
             "changeTime": 1517445110942,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517445110968,
             "changeTime": 1517445110968,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517445110971,
             "changeTime": 1517445110971,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517449126067,
+            "changeTime": 1517449126067,
+            "contentHash": "265ea77119e97d09d6eb45c1d37cb4b9a73cbfdc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517448833970,
+            "changeTime": 1517448833970,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\pages\\samplePage.page",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\pages\\samplePage.page",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1517449126066,
+            "changeTime": 1517449126066,
+            "contentHash": "646b46e60e893cfb7eb978462248b08070306fb2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\pages\\samplePage.page-meta.xml",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\pages\\samplePage.page-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1517449126067,
+            "changeTime": 1517449126067,
+            "contentHash": "c71761d557f9b949a6b410da706324e7179d6de0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517448833969,
+            "changeTime": 1517448833969,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 151,
+            "modifiedTime": 1517459712209,
+            "changeTime": 1517459712209,
+            "contentHash": "f2a62b5da3367cce1918354baac2374bb5df7b3c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1517448833958,
+            "changeTime": 1517448833958,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 112,
+            "modifiedTime": 1517459788384,
+            "changeTime": 1517459788384,
+            "contentHash": "6a74947b2da63659695169aff9e5b8af61947b6a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1517448833970,
+            "changeTime": 1517448833970,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1517448833967,
+            "changeTime": 1517448833967,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1517448833960,
+            "changeTime": 1517448833960,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1517448833962,
+            "changeTime": 1517448833962,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1517448833966,
+            "changeTime": 1517448833966,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1517464661463,
+            "changeTime": 1517464661463,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4569,
+            "modifiedTime": 1517464661468,
+            "changeTime": 1517464661468,
+            "contentHash": "cf71609d82faf0a261a1bebc2f2117c5dc59f58b"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4573,
+            "modifiedTime": 1517464661473,
+            "changeTime": 1517464661473,
+            "contentHash": "a7bc4fd13022d45903d86853ba0cb292017b8893"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4909,
+            "modifiedTime": 1517464661479,
+            "changeTime": 1517464661479,
+            "contentHash": "8a9fe8c8a0cc2e58f321362b9ffbfe957836863c"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17253,
+            "modifiedTime": 1517464661491,
+            "changeTime": 1517464661491,
+            "contentHash": "b12be5b1841b4a0a283284c172205cdc274cc100"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517464661462,
+            "changeTime": 1517464661462,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517464661490,
+            "changeTime": 1517464661490,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]

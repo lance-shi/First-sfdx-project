@@ -1,0 +1,77 @@
+[
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516856342151,
+            "changeTime": 1516856342151,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516856342151,
+            "changeTime": 1516856342151,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516856342151,
+            "changeTime": 1516856342151,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516856342151,
+            "changeTime": 1516856342151,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Lance\\devhub\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Lance\\devhub\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516863923694,
+            "changeTime": 1516863923694,
+            "contentHash": "08817971472a31484bd46c87f2fdc09a97c4c63e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
